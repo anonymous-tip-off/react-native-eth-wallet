@@ -1,0 +1,41 @@
+{
+  "name": "react-native-eth-wallet",
+  "type": "module",
+  "version": "0.0.1",
+  "description": "An easy-to-use Ethereum wallet generator for React Native.",
+  "main": "main.js",
+  "files": [
+    "main.js",
+    "package.json"
+  ],
+  "dependencies": {
+    "assert": "^1.4.1",
+    "bigi": "^1.4.2",
+    "ecurve-names": "^0.3.0",
+    "js-sha3": "^0.8.0",
+    "react-native-securerandom": "^0.3.0"
+  },
+  "peerDependencies": {
+    "react-native-securerandom": "^0.3.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anonymous-tip-off/react-native-eth-wallet.git"
+  },
+  "keywords": [
+    "react",
+    "native",
+    "ethereum",
+    "wallet",
+    "generator"
+  ],
+  "author": "Pranav M S",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anonymous-tip-off/react-native-eth-wallet/issues"
+  },
+  "homepage": "https://github.com/anonymous-tip-off/react-native-eth-wallet#readme"
+}
